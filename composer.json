@@ -1,0 +1,7 @@
+{
+    "require": {
+        "components/jquery": "^3.3",
+        "twbs/bootstrap": "^4.3",
+        "fzaninotto/faker": "^1.8"
+    }
+}
